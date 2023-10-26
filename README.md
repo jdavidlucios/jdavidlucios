@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Juan Lucio </h1>
-<h3 align="center">I'm a beginner Web Developer </h3>
+<h3 align="center">I'm a Full Stack Web Developer </h3>
 
 ### About Me:
 
-- ⌨️ Full Stack Java Trainee
+- ⌨️ Java, Javascript
 - 💻 Web3 Enthusiast
 - 📫 How to reach me: juandalucio@gmail.com
 
