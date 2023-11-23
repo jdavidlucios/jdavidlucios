@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Lucio </h1>
-<h3 align="center">I'm a Full Stack Web Developer </h3>
+<h3 align="center">I'm a Full Stack Developer </h3>
 
 ### About Me:
 
