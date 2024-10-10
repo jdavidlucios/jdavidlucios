@@ -4,7 +4,7 @@
 ### About Me:
 
 - ⌨️ Solidity, Python, Java, Javascript
-- 💻 Web3 Enthusiast
+- 💻 Web3 & 2 Development
 - 📫 How to reach me: juandalucio@gmail.com
 
 
