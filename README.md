@@ -3,7 +3,7 @@
 
 ### About Me:
 
-- ⌨️ Solidity, Python, Java, Javascript
+- ⌨️ Solidity, Python, Java, Javascript, Rust, SQL.
 - 💻 Web3 & 2 Development
 - 📫 How to reach me: juandalucio@gmail.com
 
